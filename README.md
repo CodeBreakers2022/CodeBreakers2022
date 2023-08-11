@@ -15,6 +15,8 @@ Conheça nossos membros:
 - [Pedro Gabriel Silva dos Reis](https://github.com/Paindrin)
 - [Anny Duarte](https://github.com/Muniz-DuarteAnny)
 - [Maísa Resende](https://github.com/ChyaaNkh)
+- [Douglas Lima](https://github.com/DouglasLima352)
+- [Luzia](https://github.com/Luziarcd)
 
 ## Nossos Objetivos
 
